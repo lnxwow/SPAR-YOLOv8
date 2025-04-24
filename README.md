@@ -1,4 +1,4 @@
-# Self-PromptingAnalogicalReasoningforUAVObjectDetection
+# Self-Prompting Analogical Reasoning for UAV Object Detection
 The repo is the official implementation of SPAR-YOLOv8.
 
 Paper:[Self-Prompting Analogical Reasoning for UAV Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/34026/36181)
